@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="97">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+      <itemPath>DayMeal.h</itemPath>
+      <itemPath>DietTracking.h</itemPath>
+      <itemPath>Exercise.h</itemPath>
+      <itemPath>ExerciseTracking.h</itemPath>
+      <itemPath>Freestyle.h</itemPath>
+      <itemPath>Meal.h</itemPath>
+      <itemPath>MonthBurnt.h</itemPath>
+      <itemPath>MonthConsumed.h</itemPath>
+      <itemPath>Nutrition.h</itemPath>
+      <itemPath>NutritionManagement.h</itemPath>
+      <itemPath>Running.h</itemPath>
+      <itemPath>User.h</itemPath>
+      <itemPath>Walking.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>DayMeal.cpp</itemPath>
+      <itemPath>DietTracking.cpp</itemPath>
+      <itemPath>Exercise.cpp</itemPath>
+      <itemPath>ExerciseTracking.cpp</itemPath>
+      <itemPath>Freestyle.cpp</itemPath>
+      <itemPath>Meal.cpp</itemPath>
+      <itemPath>MonthBurnt.cpp</itemPath>
+      <itemPath>MonthConsumed.cpp</itemPath>
+      <itemPath>Nutrition.cpp</itemPath>
+      <itemPath>NutritionManagement.cpp</itemPath>
+      <itemPath>Running.cpp</itemPath>
+      <itemPath>User.cpp</itemPath>
+      <itemPath>Walking.cpp</itemPath>
+      <itemPath>main.cpp</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+      <logicalFolder name="f2"
+                     displayName="TestDietTracking"
+                     projectFiles="true"
+                     kind="TEST">
+        <itemPath>TestDietTracking.cpp</itemPath>
+        <itemPath>TestDietTracking.h</itemPath>
+        <itemPath>TestDietTrackingrunner.cpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f3"
+                     displayName="TestExerciseTracking"
+                     projectFiles="true"
+                     kind="TEST">
+        <itemPath>TestExerciseTracking.cpp</itemPath>
+        <itemPath>TestExerciseTracking.h</itemPath>
+        <itemPath>TestExerciseTrackingrunner.cpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f1"
+                     displayName="TestNutrition"
+                     projectFiles="true"
+                     kind="TEST">
+        <itemPath>TestNutrition.cpp</itemPath>
+        <itemPath>TestNutrition.h</itemPath>
+        <itemPath>TestNutritionrunner.cpp</itemPath>
+      </logicalFolder>
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+      </compileType>
+      <item path="DayMeal.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="DayMeal.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="DietTracking.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="DietTracking.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Exercise.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Exercise.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ExerciseTracking.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ExerciseTracking.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Freestyle.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Freestyle.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Meal.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Meal.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="MonthBurnt.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="MonthBurnt.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="MonthConsumed.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="MonthConsumed.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Nutrition.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Nutrition.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="NutritionManagement.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="NutritionManagement.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Running.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Running.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="TestDietTracking.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="TestDietTracking.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="TestDietTrackingrunner.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="TestExerciseTracking.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="TestExerciseTracking.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="TestExerciseTrackingrunner.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="TestNutrition.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="TestNutrition.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="TestNutritionrunner.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="User.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="User.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Walking.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Walking.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <folder path="TestFiles/f1">
+        <cTool>
+          <commandLine>`cppunit-config --cflags`</commandLine>
+        </cTool>
+        <ccTool>
+          <commandLine>`cppunit-config --cflags`</commandLine>
+        </ccTool>
+        <linkerTool>
+          <output>${TESTDIR}/TestFiles/f1</output>
+          <linkerLibItems>
+            <linkerOptionItem>`cppunit-config --libs`</linkerOptionItem>
+          </linkerLibItems>
+        </linkerTool>
+      </folder>
+      <folder path="TestFiles/f2">
+        <cTool>
+          <commandLine>`cppunit-config --cflags`</commandLine>
+        </cTool>
+        <ccTool>
+          <commandLine>`cppunit-config --cflags`</commandLine>
+        </ccTool>
+        <linkerTool>
+          <output>${TESTDIR}/TestFiles/f2</output>
+          <linkerLibItems>
+            <linkerOptionItem>`cppunit-config --libs`</linkerOptionItem>
+          </linkerLibItems>
+        </linkerTool>
+      </folder>
+      <folder path="TestFiles/f3">
+        <cTool>
+          <commandLine>`cppunit-config --cflags`</commandLine>
+        </cTool>
+        <ccTool>
+          <commandLine>`cppunit-config --cflags`</commandLine>
+        </ccTool>
+        <linkerTool>
+          <output>${TESTDIR}/TestFiles/f3</output>
+          <linkerLibItems>
+            <linkerOptionItem>`cppunit-config --libs`</linkerOptionItem>
+          </linkerLibItems>
+        </linkerTool>
+      </folder>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="DayMeal.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="DayMeal.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="DietTracking.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="DietTracking.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Exercise.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Exercise.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ExerciseTracking.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ExerciseTracking.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Freestyle.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Freestyle.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Meal.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Meal.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="MonthBurnt.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="MonthBurnt.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="MonthConsumed.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="MonthConsumed.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Nutrition.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Nutrition.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="NutritionManagement.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="NutritionManagement.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Running.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Running.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="TestDietTracking.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="TestDietTracking.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="TestDietTrackingrunner.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="TestExerciseTracking.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="TestExerciseTracking.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="TestExerciseTrackingrunner.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="TestNutrition.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="TestNutrition.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="TestNutritionrunner.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="User.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="User.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Walking.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Walking.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <folder path="TestFiles/f1">
+        <cTool>
+          <commandLine>`cppunit-config --cflags`</commandLine>
+        </cTool>
+        <ccTool>
+          <commandLine>`cppunit-config --cflags`</commandLine>
+        </ccTool>
+        <linkerTool>
+          <output>${TESTDIR}/TestFiles/f1</output>
+          <linkerLibItems>
+            <linkerOptionItem>`cppunit-config --libs`</linkerOptionItem>
+          </linkerLibItems>
+        </linkerTool>
+      </folder>
+      <folder path="TestFiles/f2">
+        <cTool>
+          <commandLine>`cppunit-config --cflags`</commandLine>
+        </cTool>
+        <ccTool>
+          <commandLine>`cppunit-config --cflags`</commandLine>
+        </ccTool>
+        <linkerTool>
+          <output>${TESTDIR}/TestFiles/f2</output>
+          <linkerLibItems>
+            <linkerOptionItem>`cppunit-config --libs`</linkerOptionItem>
+          </linkerLibItems>
+        </linkerTool>
+      </folder>
+      <folder path="TestFiles/f3">
+        <cTool>
+          <commandLine>`cppunit-config --cflags`</commandLine>
+        </cTool>
+        <ccTool>
+          <commandLine>`cppunit-config --cflags`</commandLine>
+        </ccTool>
+        <linkerTool>
+          <output>${TESTDIR}/TestFiles/f3</output>
+          <linkerLibItems>
+            <linkerOptionItem>`cppunit-config --libs`</linkerOptionItem>
+          </linkerLibItems>
+        </linkerTool>
+      </folder>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
